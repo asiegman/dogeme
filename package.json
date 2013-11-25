@@ -1,0 +1,12 @@
+{
+	"name": "dogeme",
+	"version": "0.0.0",
+	"private": true,
+
+	"description": "Wow. Such Web-Service. So Doge.",
+	"author": "Rowan Manning (http://rowanmanning.com/)",
+
+	"dependencies": {
+		"thingme": "~1.0"
+	}
+}

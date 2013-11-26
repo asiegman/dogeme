@@ -11,13 +11,10 @@ Wow. Such Web-Service. So Doge. http://dogeme.rowanmanning.com/
 Adding Doges
 ------------
 
-Add Doge image URLs to [`dogeme.json`](dogeme.json) at the end of the `things` array. Each Doge should be an object like this:
+Add Doge image URLs to [`dogeme.json`](dogeme.json) at the end of the `things` array. Each Doge should be a string containing only the URL, like this:
 
 ```
-{
-    "id": 1,
-    "url": "http://i0.kym-cdn.com/photos/images/newsfeed/000/581/296/c09.jpg"
-}
+"http://i0.kym-cdn.com/photos/images/newsfeed/000/581/296/c09.jpg"
 ```
 
 Don't forget to increment the ID. Once you're done, open a pull request.

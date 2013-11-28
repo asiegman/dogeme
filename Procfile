@@ -1,1 +1,1 @@
-web: node_modules/.bin/thingme dogeme.json
+web: node_modules/.bin/thingme dogeme.js

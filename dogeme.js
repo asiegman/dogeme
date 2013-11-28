@@ -1,0 +1,39 @@
+'use strict';
+
+module.exports = {
+
+    // Thingme config
+    // see: https://github.com/rowanmanning/thingme#configuration
+    singular: 'doge',
+    plural: 'doges',
+
+    // Doge image URLs
+    things: [
+        'http://24.media.tumblr.com/6a723af35ae1f123aa55182a60e5c181/tumblr_muzpkylW9o1szim6vo1_400.png',
+        'http://24.media.tumblr.com/8a99c81b0242e1381fd540ff5782cacd/tumblr_mv84huyuN11s4bl2qo1_400.gif',
+        'http://24.media.tumblr.com/a49a8730304a219ec067b38b2a077342/tumblr_muqdtiQmCk1szim6vo1_400.gif',
+        'http://25.media.tumblr.com/8d5cd50a3f82387f9c06a3061f6e9792/tumblr_mwjcw2H8TE1r65re8o1_400.jpg',
+        'http://25.media.tumblr.com/ed19cb78e4f950d5ab0e1891ce5d31e6/tumblr_mrxz4wOBV51szim6vo1_400.jpg',
+        'http://31.media.tumblr.com/06382138c587c0fdc62e9ecf6cfb9697/tumblr_mrl5dxZHyP1qzmowao1_400.gif',
+        'http://31.media.tumblr.com/1dbbac9bc713e6671a5a299c45538bad/tumblr_mw9f814uIX1szim6vo1_400.jpg',
+        'http://i.imgur.com/15q15aa.jpg',
+        'http://i.imgur.com/4tz2eNt.jpg',
+        'http://i.imgur.com/6vLbz7C.png',
+        'http://i.imgur.com/8N4hbTC.jpg',
+        'http://i.imgur.com/BCVx8Ko.gif',
+        'http://i.imgur.com/CMzhGFb.jpg',
+        'http://i.imgur.com/HYWjTOp.jpg',
+        'http://i.imgur.com/nF8DtvV.jpg',
+        'http://i.imgur.com/QkFqw02.jpg',
+        'http://i.imgur.com/rEspvqJ.gif',
+        'http://i.imgur.com/TgtB16v.png',
+        'http://i.imgur.com/u0WUbyX.gif',
+        'http://i.imgur.com/WbRRtAR.jpg',
+        'http://i.imgur.com/Xz7wmc7.jpg',
+        'http://i.imgur.com/Z9NX2Tj.jpg',
+        'http://i0.kym-cdn.com/photos/images/newsfeed/000/581/296/c09.jpg',
+        'http://i1.kym-cdn.com/photos/images/newsfeed/000/581/567/bab.jpg',
+        'http://i2.kym-cdn.com/photos/images/newsfeed/000/581/168/9f1.jpg'
+    ]
+
+};

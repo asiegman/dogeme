@@ -43,7 +43,15 @@ module.exports = {
         'http://static1.fjcdn.com/comments/4707626+_36cc6d9778b7e83fcd4c780dab841945.png',
         'http://static1.fjcdn.com/comments/How+did+this+even+start+_7155a69fce359eb865d3b0a5c27f1359.jpg',
         'http://static2.fjcdn.com/comments/I+m+gonna+post+a+few+_54013ba869e922f46bff8546ef048759.jpg',
-        'http://twilight.ponychan.net/chan/files/src/138327501031.jpg'
+        'http://twilight.ponychan.net/chan/files/src/138327501031.jpg',
+        'http://i2.minus.com/ilXWkyP7QN3EX.jpg',
+        'http://static.fjcdn.com/comments/Have+another+shibe+_a99207a3a6813dde5ade843ac0786f2c.jpg',
+        'http://static.fjcdn.com/pictures/Shibe_ca1bd3_4825797.jpg',
+        'http://24.media.tumblr.com/cce2287cd5eb22ad85d416f33cdfc4c2/tumblr_mqasxzAD5z1szim6vo1_400.jpg',
+        'http://31.media.tumblr.com/bafd9d6c3902ca21c8d4e7a3e75e1253/tumblr_mr696b9BGu1szim6vo1_400.jpg',
+        'http://static4.fjcdn.com/comments/+_f6b3059315b636fcbaae98bd5533fb6b.jpg',
+        'http://31.media.tumblr.com/91ecab6882e84ffa616eef2d40432bcb/tumblr_ms90rrgzwt1szim6vo1_400.jpg',
+        'http://2damnfunny.com/wp-content/uploads/2013/10/Shibe-Doge-Declares-Siberia-The-Home-Of-Wow.jpg'
     ]
 
 };

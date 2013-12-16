@@ -21,6 +21,7 @@ module.exports = {
         'http://25.media.tumblr.com/66796d75f65aff2048d4739b0776e6c0/tumblr_mpujg9yDjh1szim6vo2_400.jpg',
         'http://25.media.tumblr.com/8d5cd50a3f82387f9c06a3061f6e9792/tumblr_mwjcw2H8TE1r65re8o1_400.jpg',
         'http://25.media.tumblr.com/d30ace50e7199febc1b3346841270d5d/tumblr_mr8it5PFnR1szim6vo1_400.jpg',
+        'http://25.media.tumblr.com/de48c0172e890ade5090752cf2d8bf44/tumblr_mx8ayj5sTF1qb606uo1_500.jpg',
         'http://25.media.tumblr.com/ed19cb78e4f950d5ab0e1891ce5d31e6/tumblr_mrxz4wOBV51szim6vo1_400.jpg',
         'http://2damnfunny.com/wp-content/uploads/2013/10/Shibe-Doge-Declares-Siberia-The-Home-Of-Wow.jpg',
         'http://31.media.tumblr.com/06382138c587c0fdc62e9ecf6cfb9697/tumblr_mrl5dxZHyP1qzmowao1_400.gif',
@@ -31,6 +32,7 @@ module.exports = {
         'http://31.media.tumblr.com/bfbaf428eda1204cb3812f4d476674d8/tumblr_mqepne7XzV1szim6vo1_400.jpg',
         'http://31.media.tumblr.com/d5ff89991ce9b9f117fda6e4db2166ba/tumblr_mvm2hiic1D1szim6vo1_400.jpg',
         'http://cdn.gifbay.com/2013/10/doge_is_dead_umad-94294.gif',
+        'http://distilleryimage2.ak.instagram.com/d7a953ac638611e39395120aa4c2c382_8.jpg',
         'http://hugelolcdn.com/i/199024.gif',
         'http://i.imgur.com/15q15aa.jpg',
         'http://i.imgur.com/1uBYSzq.jpg',
@@ -39,6 +41,7 @@ module.exports = {
         'http://i.imgur.com/8N4hbTC.jpg',
         'http://i.imgur.com/BCVx8Ko.gif',
         'http://i.imgur.com/CMzhGFb.jpg',
+        'http://i.imgur.com/EATI8kN.png',
         'http://i.imgur.com/HYWjTOp.jpg',
         'http://i.imgur.com/LSzIWYz.gif',
         'http://i.imgur.com/nF8DtvV.jpg',
@@ -56,6 +59,7 @@ module.exports = {
         'http://i1.kym-cdn.com/photos/images/newsfeed/000/581/567/bab.jpg',
         'http://i1.kym-cdn.com/photos/images/original/000/645/439/125.jpg',
         'http://i1.kym-cdn.com/photos/images/original/000/648/312/8ca.png',
+        'http://i100.photobucket.com/albums/m35/blackdice23/1992-Dodge-Viper-front-three-quarter_zps70911062.gif',
         'http://i2.kym-cdn.com/photos/images/newsfeed/000/581/168/9f1.jpg',
         'http://i2.kym-cdn.com/photos/images/original/000/644/620/2e9.jpg',
         'http://i2.kym-cdn.com/photos/images/original/000/646/486/07d.gif',
@@ -69,7 +73,8 @@ module.exports = {
         'http://static1.fjcdn.com/comments/How+did+this+even+start+_7155a69fce359eb865d3b0a5c27f1359.jpg',
         'http://static2.fjcdn.com/comments/I+m+gonna+post+a+few+_54013ba869e922f46bff8546ef048759.jpg',
         'http://static4.fjcdn.com/comments/+_f6b3059315b636fcbaae98bd5533fb6b.jpg',
-        'http://twilight.ponychan.net/chan/files/src/138327501031.jpg'
+        'http://twilight.ponychan.net/chan/files/src/138327501031.jpg',
+        'https://pbs.twimg.com/media/BbRDRhoCQAA0iQE.jpg'
     ]
 
 };

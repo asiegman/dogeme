@@ -54,6 +54,7 @@ module.exports = {
         'http://i.imgur.com/WbRRtAR.jpg',
         'http://i.imgur.com/Xz7wmc7.jpg',
         'http://i.imgur.com/Z9NX2Tj.jpg',
+        'http://i.imgur.com/ZPY1WUp.png',
         'http://i0.kym-cdn.com/photos/images/newsfeed/000/581/296/c09.jpg',
         'http://i0.kym-cdn.com/photos/images/newsfeed/000/648/946/6ac.jpg',
         'http://i1.kym-cdn.com/photos/images/newsfeed/000/581/567/bab.jpg',

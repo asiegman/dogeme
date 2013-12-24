@@ -43,6 +43,7 @@ module.exports = {
         'http://i.imgur.com/CMzhGFb.jpg',
         'http://i.imgur.com/EATI8kN.png',
         'http://i.imgur.com/HYWjTOp.jpg',
+        'http://i.imgur.com/LPqLT9N.png',
         'http://i.imgur.com/LSzIWYz.gif',
         'http://i.imgur.com/nF8DtvV.jpg',
         'http://i.imgur.com/QkFqw02.jpg',
@@ -52,7 +53,9 @@ module.exports = {
         'http://i.imgur.com/TgtB16v.png',
         'http://i.imgur.com/u0WUbyX.gif',
         'http://i.imgur.com/WbRRtAR.jpg',
+        'http://i.imgur.com/xFNadmU.png',
         'http://i.imgur.com/Xz7wmc7.jpg',
+        'http://i.imgur.com/Y30JgKh.jpg',
         'http://i.imgur.com/Z9NX2Tj.jpg',
         'http://i.imgur.com/ZPY1WUp.png',
         'http://i0.kym-cdn.com/photos/images/newsfeed/000/581/296/c09.jpg',
@@ -75,7 +78,9 @@ module.exports = {
         'http://static2.fjcdn.com/comments/I+m+gonna+post+a+few+_54013ba869e922f46bff8546ef048759.jpg',
         'http://static4.fjcdn.com/comments/+_f6b3059315b636fcbaae98bd5533fb6b.jpg',
         'http://twilight.ponychan.net/chan/files/src/138327501031.jpg',
-        'https://pbs.twimg.com/media/BbRDRhoCQAA0iQE.jpg'
+        'https://pbs.twimg.com/media/BbRDRhoCQAA0iQE.jpg',
+        'https://pbs.twimg.com/media/BcNNIaXIQAARewQ.jpg',
+        'https://people.mozilla.org/~smartell/meme/such-logo.gif'
     ]
 
 };

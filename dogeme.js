@@ -31,7 +31,6 @@ module.exports = {
         'http://31.media.tumblr.com/bafd9d6c3902ca21c8d4e7a3e75e1253/tumblr_mr696b9BGu1szim6vo1_400.jpg',
         'http://31.media.tumblr.com/bfbaf428eda1204cb3812f4d476674d8/tumblr_mqepne7XzV1szim6vo1_400.jpg',
         'http://31.media.tumblr.com/d5ff89991ce9b9f117fda6e4db2166ba/tumblr_mvm2hiic1D1szim6vo1_400.jpg',
-        'http://cdn.gifbay.com/2013/10/doge_is_dead_umad-94294.gif',
         'http://d24w6bsrhbeh9d.cloudfront.net/photo/aD0b92N_460sa.gif',
         'http://distilleryimage2.ak.instagram.com/d7a953ac638611e39395120aa4c2c382_8.jpg',
         'http://hugelolcdn.com/i/199024.gif',
